@@ -391,11 +391,6 @@ $$
 
 
 
-##**Deconvolução por mínimo erro médio quadrático em meio atenuante**
-
-
-
-
 
 **Referências**
 
